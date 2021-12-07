@@ -1,0 +1,1 @@
+Here I learn progamming with small challenges/exercises i.a. from [Python-programming-exercises (GitHub)](https://github.com/zhiwehu/Python-programming-exercises)
