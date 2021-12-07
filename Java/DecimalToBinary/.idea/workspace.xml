@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b54dfa7a-5802-43ab-84eb-7f1a014d9d8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algorithms/search/LinearSearch/src/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms/search/LinearSearch/src/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../networking/HttpServer/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../networking/HttpServer/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../networking/HttpServer/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../networking/HttpServer/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../networking/HttpServer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../networking/HttpServer/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../networking/HttpServer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../networking/HttpServer/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../networking/HttpServer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../networking/HttpServer/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../networking/HttpServer/HttpServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../networking/HttpServer/HttpServer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../networking/HttpServer/src/HttpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../networking/HttpServer/src/HttpServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms/search/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Algorithms/search/binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms/search/linear_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Algorithms/search/linear_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms/sort/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Algorithms/sort/bubble_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +106,7 @@
       <updated>1638814148428</updated>
       <workItem from="1638814149786" duration="1696000" />
       <workItem from="1638860126804" duration="1007000" />
+      <workItem from="1638886905874" duration="599000" />
     </task>
     <servers />
   </component>
